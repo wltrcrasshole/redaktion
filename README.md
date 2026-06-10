@@ -46,7 +46,7 @@ Redaktion is used by editors across two moments in the editorial cycle, not just
 
 The first is the **planning phase** – typically the period between closing one issue and beginning active production on the next. The editor opens the tool, inputs the upcoming coverage window and available slot count, and receives a suggested issue plan drawn from the idea bank. It is a thinking partner, not a decision-maker. Every suggestion it makes is subject to human judgment, and the editor retains full creative and editorial control. Writers can also submit pitches into Redaktion at any point via the pitch logging flow, which stores them in the idea bank for evaluation during the next planning session.
 
-The second is the **closing phase** – after the issue is locked and decisions are final. The editor reports back to Redaktion what actually ran: which ideas were published (in print, online, or both), which are being held for a future issue, and which have been rejected. Redaktion uses this input to update the idea bank and ensure future planning sessions reflect what has already been covered. Variations or fresh angles on previously covered topics remain welcome — the goal is informed planning, not rigid restriction.
+The second is the **closing phase** – after the issue is locked and decisions are final. The editor reports back to Redaktion what actually ran: which ideas were published (in print, online, or both), which are being held for a future issue, and which have been rejected. Redaktion uses this input to update the idea bank and ensure future planning sessions reflect what has already been covered. Variations or fresh angles on previously covered topics remain welcome – the goal is informed planning, not rigid restriction.
 
 The effects of better editorial planning ripple outward to everyone involved in making the magazine. Writers benefit from clearer, earlier briefs and more lead time. Photographers and designers can be brought into the process sooner when the shape of an issue is decided earlier. The editor-in-chief gains a more considered and defensible issue plan – though a well-functioning Redaktion might occasionally present the welcome problem of too many strong options for a limited number of pages.
 
@@ -88,7 +88,7 @@ Redaktion begins as a personal tool for a single editor, but its natural traject
 
 **Multilingual capability** is already present in the prototype – Claude responds in the language appropriate to each section – and would be developed further to support editorial teams working natively across multiple languages, making Redaktion genuinely useful for international and community publications worldwide.
 
-**Over time**, Redaktion could develop analytical capabilities — showing editors patterns in their own decision-making, flagging underrepresented voices or themes, and helping publications become more intentional about the stories they tell and the communities they serve.
+**Over time**, Redaktion could develop analytical capabilities – showing editors patterns in their own decision-making, flagging underrepresented voices or themes, and helping publications become more intentional about the stories they tell and the communities they serve.
 
 **The longest horizon** is cross-publication connection: a network where editors at different outlets can optionally signal what they are working on, creating opportunities for collaboration, coordination, and the kind of editorial synergy that is currently left entirely to chance and personal relationships.
 

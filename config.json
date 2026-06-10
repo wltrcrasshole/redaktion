@@ -1,0 +1,17 @@
+{
+  "magazine_name": "Siegessäule",
+  "description": "Berlin's queer city magazine, covering LGBTI* culture, politics, community life, and arts for gay, lesbian, bisexual, trans*, and inter people in Berlin.",
+  "location": "Berlin",
+  "language_sections": ["english", "film"],
+  "print_and_online": true,
+  "editorial_values": [
+    "community relevance",
+    "queer perspective",
+    "Berlin specificity",
+    "cultural depth"
+  ],
+  "section_slots": {
+    "english": 2,
+    "film": 3
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "ideas": [
+    {
+      "id": 1,
+      "title": "The last video rental shop in Berlin",
+      "description": "A profile of the one remaining video rental store in the city and the community around it.",
+      "section": "english",
+      "status": "published",
+      "times_suggested": 0,
+      "format": "print",
+      "ran_in_issue": "August 2026",
+      "published_url": null,
+      "contributor": null
+    },
+    {
+      "id": 2,
+      "title": "Wim Wenders und die Straßen Berlins",
+      "description": "Wie Wenders' Filme die Stadt als Kulisse und Thema nutzen.",
+      "section": "film",
+      "status": "unused",
+      "times_suggested": 0,
+      "format": null,
+      "ran_in_issue": null,
+      "published_url": null,
+      "contributor": null
+    },
+    {
+      "id": 3,
+      "title": "Berlin After CSD — What Stays When the Glitter Fades",
+      "description": "A frank look at what the weeks after Christopher Street Day actually feel like for Berlin's queer locals — the exhaustion, the comedowns, and the community work that continues without a parade.",
+      "section": "english",
+      "status": "held",
+      "times_suggested": 1,
+      "format": "both",
+      "ran_in_issue": null,
+      "published_url": null,
+      "contributor": null
+    },
+    {
+      "id": 4,
+      "title": "Queer Swimming in Berlin — A Summer Guide to the City's Lakes and Lidos",
+      "description": "A practical yet political guide to Berlin's outdoor swimming spots, exploring which spaces feel genuinely safe and welcoming for queer and trans* bodies and which still carry tensions.",
+      "section": "english",
+      "status": "rejected",
+      "times_suggested": 1,
+      "format": "online",
+      "ran_in_issue": null,
+      "published_url": null,
+      "contributor": null
+    },
+    {
+      "id": 5,
+      "title": "The DJs Who Build the Room — Portraits of Three Queer Berlin Residents Behind the Decks This Summer",
+      "description": "Short, intimate portraits of three queer DJs — one established, one emerging, one visiting — exploring how they think about building a dancefloor as an act of community care.",
+      "section": "english",
+      "status": "unused",
+      "times_suggested": 1,
+      "format": "print",
+      "ran_in_issue": null,
+      "published_url": null,
+      "contributor": null
+    },
+    {
+      "id": 6,
+      "title": "Queeres Kino im Sommer: Berlins LGBTI*-Filmszene zwischen Open-Air und Programmkino",
+      "description": "Ein Überblick über queere Filmvorführungen, Festivals und Sonderprogramme in Berlin im Sommer 2026 — von Freiluftscreenings bis zu Programmkinos wie dem Wolf oder Kino Moviemento.",
+      "section": "film",
+      "status": "unused",
+      "times_suggested": 1,
+      "format": "both",
+      "ran_in_issue": null,
+      "published_url": null,
+      "contributor": null
+    },
+    {
+      "id": 7,
+      "title": "Interview with founder of \"Meetmarket\" app",
+      "description": "A new community run competitor to Grindr has surfaced, we talk to the person behind it.",
+      "section": "english",
+      "status": "published",
+      "times_suggested": 0,
+      "format": "both",
+      "ran_in_issue": "August 2026",
+      "published_url": null,
+      "contributor": "Walter Crasshole"
+    }
+  ]
+}
